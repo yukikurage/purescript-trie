@@ -1,0 +1,8 @@
+{
+	"devDependencies": {
+		"purescript": "^0.15.14",
+		"spago": "^0.21.0",
+		"esbuild": "^0.20.0",
+		"purs-tidy": "^0.10.1"
+	}
+}
